@@ -6,7 +6,7 @@
 // Ported to STM32 by Jaret Burkett https://github.com/jaretburkett
 // Modified for ST HAL Core by MKE https://github.com/mkengineering
 
-#include "TouchScreen_STM32.h"
+#include "STM32_TouchScreen.h"
 
 #define NUMSAMPLES		7 // must be on odd number!
 #define MIN_PRESSURE	500
